@@ -1,0 +1,7 @@
+C:\Users\Adilson\Documents\SharpDevelop Projects\S_EditorMessi\EditorMessi\bin\Debug\EditorMessi.exe
+C:\Users\Adilson\Documents\SharpDevelop Projects\S_EditorMessi\EditorMessi\bin\Debug\EditorMessi.pdb
+C:\Users\Adilson\Documents\SharpDevelop Projects\S_EditorMessi\EditorMessi\obj\Debug\EditorMessi.csprojResolveAssemblyReference.cache
+C:\Users\Adilson\Documents\SharpDevelop Projects\S_EditorMessi\EditorMessi\obj\Debug\EditorMessi.MainForm.resources
+C:\Users\Adilson\Documents\SharpDevelop Projects\S_EditorMessi\EditorMessi\obj\Debug\EditorMessi.csproj.GenerateResource.Cache
+C:\Users\Adilson\Documents\SharpDevelop Projects\S_EditorMessi\EditorMessi\obj\Debug\EditorMessi.exe
+C:\Users\Adilson\Documents\SharpDevelop Projects\S_EditorMessi\EditorMessi\obj\Debug\EditorMessi.pdb
